@@ -1,0 +1,53 @@
+[
+  {
+    "id": "BKP-20260930-1790759764502",
+    "date": "2026-09-30",
+    "time": "09:16:04",
+    "sizeBytes": 1397065,
+    "createdBy": "Md. Jahid Hasan",
+    "status": "SUCCESS",
+    "filename": "BKP-20260930-1790759764502.json",
+    "description": "Auto Backup: New Spare Part added [TEST-PART-AUTO-BKP-01] - High Precision Test Blower Wheel",
+    "recordCounts": {
+      "users": 80,
+      "items": 844,
+      "requests": 0,
+      "transactions": 0,
+      "auditLogs": 56
+    }
+  },
+  {
+    "id": "BKP-20260930-1790759360266",
+    "date": "2026-09-30",
+    "time": "09:09:20",
+    "sizeBytes": 1394648,
+    "createdBy": "SYSTEM (AUTOMATED 5-MIN)",
+    "status": "SUCCESS",
+    "filename": "BKP-20260930-1790759360266.json",
+    "description": "Automatic 5-minute database backup snapshot",
+    "recordCounts": {
+      "users": 80,
+      "items": 843,
+      "requests": 0,
+      "transactions": 0,
+      "auditLogs": 53
+    }
+  },
+  {
+    "id": "BKP-20260930-1790759060266",
+    "date": "2026-09-30",
+    "time": "09:04:20",
+    "sizeBytes": 1394349,
+    "createdBy": "SYSTEM (AUTOMATED 5-MIN)",
+    "status": "SUCCESS",
+    "filename": "BKP-20260930-1790759060266.json",
+    "description": "Automatic 5-minute database backup snapshot",
+    "recordCounts": {
+      "users": 80,
+      "items": 843,
+      "requests": 0,
+      "transactions": 0,
+      "auditLogs": 52
+    }
+  }
+]

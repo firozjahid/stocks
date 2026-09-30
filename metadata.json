@@ -1,0 +1,8 @@
+{
+  "name": "AC R&I Spare Parts & Tools Management System",
+  "description": "Enterprise-grade inventory, tracking, borrowing, transfer and lifecycle management for AC Research & Innovation spare parts, tools, and testing equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
